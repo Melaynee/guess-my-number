@@ -1,0 +1,147 @@
+@media only screen and (max-width: 1200px) {
+}
+
+@media only screen and (max-width: 992px) {
+  h1 {
+    font-size: 3.5rem;
+  }
+  .right {
+    max-width: 50rem;
+  }
+  .left {
+    max-width: 50rem;
+  }
+  .btn {
+    padding: 1.8rem 2.7rem;
+    font-size: 1.8rem;
+  }
+  .between {
+    font-size: 1.2rem;
+  }
+  .number {
+    max-width: 13%;
+    font-size: 5rem;
+  }
+  .guess {
+    font-size: 4rem;
+  }
+  .message {
+    max-width: 80%;
+    font-size: 18px;
+  }
+  .label-score {
+    font-size: 18px;
+  }
+  .label-highscore {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 3rem;
+  }
+  .right {
+    max-width: 36rem;
+  }
+  .left {
+    max-width: 36rem;
+  }
+  .btn {
+    padding: 1.2rem 1.8rem;
+    font-size: 1.8rem;
+  }
+  .between {
+    font-size: 1rem;
+  }
+  .number {
+    max-width: 10%;
+    font-size: 4rem;
+    padding: 2rem;
+  }
+  .guess {
+    font-size: 3rem;
+  }
+  .message {
+    font-size: 16px;
+  }
+  .label-score {
+    font-size: 16px;
+  }
+  .label-highscore {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  h1 {
+    font-size: 2rem;
+  }
+  .right {
+    max-width: 26rem;
+  }
+  .left {
+    max-width: 26rem;
+  }
+  .btn {
+    padding: 0.8rem 1.2rem;
+    font-size: 1.8rem;
+  }
+  .between {
+    font-size: 0.8rem;
+  }
+  .number {
+    max-width: 15%;
+    font-size: 3rem;
+  }
+  .guess {
+    font-size: 1rem;
+    max-width: 15rem;
+  }
+  .message {
+    font-size: 14px;
+  }
+  .label-score {
+    font-size: 14px;
+  }
+  .label-highscore {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  h1 {
+    font-size: 2rem;
+  }
+  .right {
+    max-width: 15rem;
+  }
+  .left {
+    max-width: 15rem;
+  }
+  .btn {
+    padding: 0.4rem 0.8rem;
+    font-size: 1.2rem;
+  }
+  .between {
+    font-size: 0.7rem;
+  }
+  .number {
+    max-width: 25%;
+    font-size: 3rem;
+    padding: 2rem;
+  }
+  .guess {
+    font-size: 0.5rem;
+    max-width: 10rem;
+  }
+  .message {
+    font-size: 10px;
+  }
+  .label-score {
+    font-size: 10px;
+  }
+  .label-highscore {
+    font-size: 10px;
+  }
+}
