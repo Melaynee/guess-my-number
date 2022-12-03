@@ -19,7 +19,6 @@
     font-size: 1.2rem;
   }
   .number {
-    max-width: 13%;
     font-size: 5rem;
   }
   .guess {
@@ -55,7 +54,6 @@
     font-size: 1rem;
   }
   .number {
-    max-width: 10%;
     font-size: 4rem;
     padding: 2rem;
   }
@@ -91,7 +89,6 @@
     font-size: 0.8rem;
   }
   .number {
-    max-width: 15%;
     font-size: 3rem;
   }
   .guess {
@@ -127,7 +124,6 @@
     font-size: 0.7rem;
   }
   .number {
-    max-width: 25%;
     font-size: 3rem;
     padding: 2rem;
   }
